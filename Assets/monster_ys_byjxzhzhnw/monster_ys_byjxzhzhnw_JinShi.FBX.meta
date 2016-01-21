@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 4b3432931554226429888b3d4921e847
+timeCreated: 1453351151
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _merge_anim
+    100002: _merge_anim 1
+    100004: Bone Connect Spine01
+    100006: Bone Connect Spine01 1
+    100008: Bone Connect Spine01 2
+    100010: Bone Connect Spine02
+    100012: Bone Connect Spine02 1
+    100014: Bone Connect Spine02 2
+    100016: Bone Connect Spine03
+    100018: Bone Connect Spine03 1
+    100020: Bone Connect Spine03 2
+    100022: Bone Head
+    100024: Bone Head 1
+    100026: Bone Head 2
+    100028: Bone L Head01
+    100030: Bone L Head01 1
+    100032: Bone L Head01 2
+    100034: Bone L Head02
+    100036: Bone L Head02 1
+    100038: Bone L Head02 2
+    100040: Bone R Head01
+    100042: Bone R Head01 1
+    100044: Bone R Head01 2
+    100046: Bone R Head02
+    100048: Bone R Head02 1
+    100050: Bone R Head02 2
+    100052: Bone Spine01
+    100054: Bone Spine01 1
+    100056: Bone Spine01 2
+    100058: Bone Spine02
+    100060: Bone Spine02 1
+    100062: Bone Spine02 2
+    100064: Bone Spine03
+    100066: Bone Spine03 1
+    100068: Bone Spine03 2
+    100070: Bone01
+    100072: Bone01 1
+    100074: Bone01 2
+    100076: Bone03
+    100078: Bone_L_Leg0
+    100080: Bone_L_Leg0 1
+    100082: Bone_L_Leg0 2
+    100084: Bone_L_Leg01
+    100086: Bone_L_Leg01 1
+    100088: Bone_L_Leg01 2
+    100090: Bone_L_Leg02
+    100092: Bone_L_Leg02 1
+    100094: Bone_L_Leg02 2
+    100096: Bone_L_Leg03
+    100098: Bone_L_Leg03 1
+    100100: Bone_L_Leg03 2
+    100102: Bone_L_Leg1
+    100104: Bone_L_Leg1 1
+    100106: Bone_L_Leg1 2
+    100108: Bone_L_Leg11
+    100110: Bone_L_Leg11 1
+    100112: Bone_L_Leg11 2
+    100114: Bone_L_Leg12
+    100116: Bone_L_Leg12 1
+    100118: Bone_L_Leg12 2
+    100120: Bone_L_Leg13
+    100122: Bone_L_Leg13 1
+    100124: Bone_L_Leg13 2
+    100126: Bone_L_Leg2
+    100128: Bone_L_Leg2 1
+    100130: Bone_L_Leg2 2
+    100132: Bone_L_Leg21
+    100134: Bone_L_Leg21 1
+    100136: Bone_L_Leg21 2
+    100138: Bone_L_Leg22
+    100140: Bone_L_Leg22 1
+    100142: Bone_L_Leg22 2
+    100144: Bone_L_Leg23
+    100146: Bone_L_Leg23 1
+    100148: Bone_L_Leg23 2
+    100150: Bone_L_Leg3
+    100152: Bone_L_Leg3 1
+    100154: Bone_L_Leg3 2
+    100156: Bone_L_Leg31
+    100158: Bone_L_Leg31 1
+    100160: Bone_L_Leg31 2
+    100162: Bone_L_Leg32
+    100164: Bone_L_Leg32 1
+    100166: Bone_L_Leg32 2
+    100168: Bone_L_Leg33
+    100170: Bone_L_Leg33 1
+    100172: Bone_L_Leg33 2
+    100174: Bone_R_Leg0
+    100176: Bone_R_Leg0 1
+    100178: Bone_R_Leg0 2
+    100180: Bone_R_Leg01
+    100182: Bone_R_Leg01 1
+    100184: Bone_R_Leg01 2
+    100186: Bone_R_Leg02
+    100188: Bone_R_Leg02 1
+    100190: Bone_R_Leg02 2
+    100192: Bone_R_Leg03
+    100194: Bone_R_Leg03 1
+    100196: Bone_R_Leg03 2
+    100198: Bone_R_Leg1
+    100200: Bone_R_Leg1 1
+    100202: Bone_R_Leg1 2
+    100204: Bone_R_Leg11
+    100206: Bone_R_Leg11 1
+    100208: Bone_R_Leg11 2
+    100210: Bone_R_Leg12
+    100212: Bone_R_Leg12 1
+    100214: Bone_R_Leg12 2
+    100216: Bone_R_Leg13
+    100218: Bone_R_Leg13 1
+    100220: Bone_R_Leg13 2
+    100222: Bone_R_Leg2
+    100224: Bone_R_Leg2 1
+    100226: Bone_R_Leg2 2
+    100228: Bone_R_Leg21
+    100230: Bone_R_Leg21 1
+    100232: Bone_R_Leg21 2
+    100234: Bone_R_Leg22
+    100236: Bone_R_Leg22 1
+    100238: Bone_R_Leg22 2
+    100240: Bone_R_Leg23
+    100242: Bone_R_Leg23 1
+    100244: Bone_R_Leg23 2
+    100246: Bone_R_Leg3
+    100248: Bone_R_Leg3 1
+    100250: Bone_R_Leg3 2
+    100252: Bone_R_Leg31
+    100254: Bone_R_Leg31 1
+    100256: Bone_R_Leg31 2
+    100258: Bone_R_Leg32
+    100260: Bone_R_Leg32 1
+    100262: Bone_R_Leg32 2
+    100264: Bone_R_Leg33
+    100266: Bone_R_Leg33 1
+    100268: Bone_R_Leg33 2
+    100270: Dummy L Leg0
+    100272: Dummy L Leg0 1
+    100274: Dummy L Leg0 2
+    100276: Dummy L Leg1
+    100278: Dummy L Leg1 1
+    100280: Dummy L Leg1 2
+    100282: Dummy L Leg2
+    100284: Dummy L Leg2 1
+    100286: Dummy L Leg2 2
+    100288: Dummy L Leg3
+    100290: Dummy L Leg3 1
+    100292: Dummy L Leg3 2
+    100294: Dummy R Leg0
+    100296: Dummy R Leg0 1
+    100298: Dummy R Leg0 2
+    100300: Dummy R Leg1
+    100302: Dummy R Leg1 1
+    100304: Dummy R Leg1 2
+    100306: Dummy R Leg2
+    100308: Dummy R Leg2 1
+    100310: Dummy R Leg2 2
+    100312: Dummy R Leg3
+    100314: Dummy R Leg3 1
+    100316: Dummy R Leg3 2
+    100318: IK Chain01
+    100320: IK Chain01 1
+    100322: IK Chain01 2
+    100324: IK Chain02
+    100326: IK Chain02 1
+    100328: IK Chain02 2
+    100330: IK Chain03
+    100332: IK Chain03 1
+    100334: IK Chain03 2
+    100336: IK Chain04
+    100338: IK Chain04 1
+    100340: IK Chain04 2
+    100342: IK Chain05
+    100344: IK Chain05 1
+    100346: IK Chain05 2
+    100348: IK Chain06
+    100350: IK Chain06 1
+    100352: IK Chain06 2
+    100354: IK Chain07
+    100356: IK Chain07 1
+    100358: IK Chain07 2
+    100360: IK Chain08
+    100362: IK Chain08 1
+    100364: IK Chain08 2
+    100366: IK Chain09
+    100368: IK Chain09 1
+    100370: IK Chain09 2
+    100372: IK Chain10
+    100374: IK Chain10 1
+    100376: IK Chain10 2
+    100378: IK Chain11
+    100380: IK Chain11 1
+    100382: IK Chain11 2
+    100384: IK Chain12
+    100386: IK Chain12 1
+    100388: IK Chain12 2
+    100390: IK Chain13
+    100392: IK Chain13 1
+    100394: IK Chain13 2
+    100396: IK Chain14
+    100398: IK Chain14 1
+    100400: IK Chain14 2
+    100402: IK Chain15
+    100404: IK Chain15 1
+    100406: IK Chain15 2
+    100408: IK Chain16
+    100410: IK Chain16 1
+    100412: IK Chain16 2
+    100414: monster_ys_byjxzhzhnw_a
+    100416: monster_ys_byjxzhzhnw_b
+    100418: //RootNode
+    100420: Monster_zhizhu
+    100422: Monster_zhizhu_a
+    100424: Monster_zhizhu_b
+    100426: Particle View 01
+    100428: Particle View 01 1
+    400000: _merge_anim
+    400002: _merge_anim 1
+    400004: Bone Connect Spine01
+    400006: Bone Connect Spine01 1
+    400008: Bone Connect Spine01 2
+    400010: Bone Connect Spine02
+    400012: Bone Connect Spine02 1
+    400014: Bone Connect Spine02 2
+    400016: Bone Connect Spine03
+    400018: Bone Connect Spine03 1
+    400020: Bone Connect Spine03 2
+    400022: Bone Head
+    400024: Bone Head 1
+    400026: Bone Head 2
+    400028: Bone L Head01
+    400030: Bone L Head01 1
+    400032: Bone L Head01 2
+    400034: Bone L Head02
+    400036: Bone L Head02 1
+    400038: Bone L Head02 2
+    400040: Bone R Head01
+    400042: Bone R Head01 1
+    400044: Bone R Head01 2
+    400046: Bone R Head02
+    400048: Bone R Head02 1
+    400050: Bone R Head02 2
+    400052: Bone Spine01
+    400054: Bone Spine01 1
+    400056: Bone Spine01 2
+    400058: Bone Spine02
+    400060: Bone Spine02 1
+    400062: Bone Spine02 2
+    400064: Bone Spine03
+    400066: Bone Spine03 1
+    400068: Bone Spine03 2
+    400070: Bone01
+    400072: Bone01 1
+    400074: Bone01 2
+    400076: Bone03
+    400078: Bone_L_Leg0
+    400080: Bone_L_Leg0 1
+    400082: Bone_L_Leg0 2
+    400084: Bone_L_Leg01
+    400086: Bone_L_Leg01 1
+    400088: Bone_L_Leg01 2
+    400090: Bone_L_Leg02
+    400092: Bone_L_Leg02 1
+    400094: Bone_L_Leg02 2
+    400096: Bone_L_Leg03
+    400098: Bone_L_Leg03 1
+    400100: Bone_L_Leg03 2
+    400102: Bone_L_Leg1
+    400104: Bone_L_Leg1 1
+    400106: Bone_L_Leg1 2
+    400108: Bone_L_Leg11
+    400110: Bone_L_Leg11 1
+    400112: Bone_L_Leg11 2
+    400114: Bone_L_Leg12
+    400116: Bone_L_Leg12 1
+    400118: Bone_L_Leg12 2
+    400120: Bone_L_Leg13
+    400122: Bone_L_Leg13 1
+    400124: Bone_L_Leg13 2
+    400126: Bone_L_Leg2
+    400128: Bone_L_Leg2 1
+    400130: Bone_L_Leg2 2
+    400132: Bone_L_Leg21
+    400134: Bone_L_Leg21 1
+    400136: Bone_L_Leg21 2
+    400138: Bone_L_Leg22
+    400140: Bone_L_Leg22 1
+    400142: Bone_L_Leg22 2
+    400144: Bone_L_Leg23
+    400146: Bone_L_Leg23 1
+    400148: Bone_L_Leg23 2
+    400150: Bone_L_Leg3
+    400152: Bone_L_Leg3 1
+    400154: Bone_L_Leg3 2
+    400156: Bone_L_Leg31
+    400158: Bone_L_Leg31 1
+    400160: Bone_L_Leg31 2
+    400162: Bone_L_Leg32
+    400164: Bone_L_Leg32 1
+    400166: Bone_L_Leg32 2
+    400168: Bone_L_Leg33
+    400170: Bone_L_Leg33 1
+    400172: Bone_L_Leg33 2
+    400174: Bone_R_Leg0
+    400176: Bone_R_Leg0 1
+    400178: Bone_R_Leg0 2
+    400180: Bone_R_Leg01
+    400182: Bone_R_Leg01 1
+    400184: Bone_R_Leg01 2
+    400186: Bone_R_Leg02
+    400188: Bone_R_Leg02 1
+    400190: Bone_R_Leg02 2
+    400192: Bone_R_Leg03
+    400194: Bone_R_Leg03 1
+    400196: Bone_R_Leg03 2
+    400198: Bone_R_Leg1
+    400200: Bone_R_Leg1 1
+    400202: Bone_R_Leg1 2
+    400204: Bone_R_Leg11
+    400206: Bone_R_Leg11 1
+    400208: Bone_R_Leg11 2
+    400210: Bone_R_Leg12
+    400212: Bone_R_Leg12 1
+    400214: Bone_R_Leg12 2
+    400216: Bone_R_Leg13
+    400218: Bone_R_Leg13 1
+    400220: Bone_R_Leg13 2
+    400222: Bone_R_Leg2
+    400224: Bone_R_Leg2 1
+    400226: Bone_R_Leg2 2
+    400228: Bone_R_Leg21
+    400230: Bone_R_Leg21 1
+    400232: Bone_R_Leg21 2
+    400234: Bone_R_Leg22
+    400236: Bone_R_Leg22 1
+    400238: Bone_R_Leg22 2
+    400240: Bone_R_Leg23
+    400242: Bone_R_Leg23 1
+    400244: Bone_R_Leg23 2
+    400246: Bone_R_Leg3
+    400248: Bone_R_Leg3 1
+    400250: Bone_R_Leg3 2
+    400252: Bone_R_Leg31
+    400254: Bone_R_Leg31 1
+    400256: Bone_R_Leg31 2
+    400258: Bone_R_Leg32
+    400260: Bone_R_Leg32 1
+    400262: Bone_R_Leg32 2
+    400264: Bone_R_Leg33
+    400266: Bone_R_Leg33 1
+    400268: Bone_R_Leg33 2
+    400270: Dummy L Leg0
+    400272: Dummy L Leg0 1
+    400274: Dummy L Leg0 2
+    400276: Dummy L Leg1
+    400278: Dummy L Leg1 1
+    400280: Dummy L Leg1 2
+    400282: Dummy L Leg2
+    400284: Dummy L Leg2 1
+    400286: Dummy L Leg2 2
+    400288: Dummy L Leg3
+    400290: Dummy L Leg3 1
+    400292: Dummy L Leg3 2
+    400294: Dummy R Leg0
+    400296: Dummy R Leg0 1
+    400298: Dummy R Leg0 2
+    400300: Dummy R Leg1
+    400302: Dummy R Leg1 1
+    400304: Dummy R Leg1 2
+    400306: Dummy R Leg2
+    400308: Dummy R Leg2 1
+    400310: Dummy R Leg2 2
+    400312: Dummy R Leg3
+    400314: Dummy R Leg3 1
+    400316: Dummy R Leg3 2
+    400318: IK Chain01
+    400320: IK Chain01 1
+    400322: IK Chain01 2
+    400324: IK Chain02
+    400326: IK Chain02 1
+    400328: IK Chain02 2
+    400330: IK Chain03
+    400332: IK Chain03 1
+    400334: IK Chain03 2
+    400336: IK Chain04
+    400338: IK Chain04 1
+    400340: IK Chain04 2
+    400342: IK Chain05
+    400344: IK Chain05 1
+    400346: IK Chain05 2
+    400348: IK Chain06
+    400350: IK Chain06 1
+    400352: IK Chain06 2
+    400354: IK Chain07
+    400356: IK Chain07 1
+    400358: IK Chain07 2
+    400360: IK Chain08
+    400362: IK Chain08 1
+    400364: IK Chain08 2
+    400366: IK Chain09
+    400368: IK Chain09 1
+    400370: IK Chain09 2
+    400372: IK Chain10
+    400374: IK Chain10 1
+    400376: IK Chain10 2
+    400378: IK Chain11
+    400380: IK Chain11 1
+    400382: IK Chain11 2
+    400384: IK Chain12
+    400386: IK Chain12 1
+    400388: IK Chain12 2
+    400390: IK Chain13
+    400392: IK Chain13 1
+    400394: IK Chain13 2
+    400396: IK Chain14
+    400398: IK Chain14 1
+    400400: IK Chain14 2
+    400402: IK Chain15
+    400404: IK Chain15 1
+    400406: IK Chain15 2
+    400408: IK Chain16
+    400410: IK Chain16 1
+    400412: IK Chain16 2
+    400414: monster_ys_byjxzhzhnw_a
+    400416: monster_ys_byjxzhzhnw_b
+    400418: //RootNode
+    400420: Monster_zhizhu
+    400422: Monster_zhizhu_a
+    400424: Monster_zhizhu_b
+    400426: Particle View 01
+    400428: Particle View 01 1
+    4300000: monster_ys_byjxzhzhnw_a
+    4300002: monster_ys_byjxzhzhnw_b
+    4300004: Monster_zhizhu_a
+    4300006: Monster_zhizhu_b
+    4300008: Monster_zhizhu
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: monster_ys_byjxzhzhnw_a
+    13700002: monster_ys_byjxzhzhnw_b
+    13700004: Monster_zhizhu
+    13700006: Monster_zhizhu_a
+    13700008: Monster_zhizhu_b
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

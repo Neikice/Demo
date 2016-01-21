@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: df7390d265daf50419f2f3c66e864b28
+timeCreated: 1453351152
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone Connect Spine01
+    100002: Bone Connect Spine02
+    100004: Bone Connect Spine03
+    100006: Bone Head
+    100008: Bone L Head01
+    100010: Bone L Head02
+    100012: Bone R Head01
+    100014: Bone R Head02
+    100016: Bone Spine01
+    100018: Bone Spine02
+    100020: Bone Spine03
+    100022: Bone01
+    100024: Bone03
+    100026: Bone_L_Leg0
+    100028: Bone_L_Leg01
+    100030: Bone_L_Leg02
+    100032: Bone_L_Leg03
+    100034: Bone_L_Leg1
+    100036: Bone_L_Leg11
+    100038: Bone_L_Leg12
+    100040: Bone_L_Leg13
+    100042: Bone_L_Leg2
+    100044: Bone_L_Leg21
+    100046: Bone_L_Leg22
+    100048: Bone_L_Leg23
+    100050: Bone_L_Leg3
+    100052: Bone_L_Leg31
+    100054: Bone_L_Leg32
+    100056: Bone_L_Leg33
+    100058: Bone_R_Leg0
+    100060: Bone_R_Leg01
+    100062: Bone_R_Leg02
+    100064: Bone_R_Leg03
+    100066: Bone_R_Leg1
+    100068: Bone_R_Leg11
+    100070: Bone_R_Leg12
+    100072: Bone_R_Leg13
+    100074: Bone_R_Leg2
+    100076: Bone_R_Leg21
+    100078: Bone_R_Leg22
+    100080: Bone_R_Leg23
+    100082: Bone_R_Leg3
+    100084: Bone_R_Leg31
+    100086: Bone_R_Leg32
+    100088: Bone_R_Leg33
+    100090: Dummy L Leg0
+    100092: Dummy L Leg1
+    100094: Dummy L Leg2
+    100096: Dummy L Leg3
+    100098: Dummy R Leg0
+    100100: Dummy R Leg1
+    100102: Dummy R Leg2
+    100104: Dummy R Leg3
+    100106: IK Chain01
+    100108: IK Chain02
+    100110: IK Chain03
+    100112: IK Chain04
+    100114: IK Chain05
+    100116: IK Chain06
+    100118: IK Chain07
+    100120: IK Chain08
+    100122: IK Chain09
+    100124: IK Chain10
+    100126: IK Chain11
+    100128: IK Chain12
+    100130: IK Chain13
+    100132: IK Chain14
+    100134: IK Chain15
+    100136: IK Chain16
+    100138: monster_ys_byjxzhzhnw_a
+    100140: monster_ys_byjxzhzhnw_b
+    100142: //RootNode
+    400000: Bone Connect Spine01
+    400002: Bone Connect Spine02
+    400004: Bone Connect Spine03
+    400006: Bone Head
+    400008: Bone L Head01
+    400010: Bone L Head02
+    400012: Bone R Head01
+    400014: Bone R Head02
+    400016: Bone Spine01
+    400018: Bone Spine02
+    400020: Bone Spine03
+    400022: Bone01
+    400024: Bone03
+    400026: Bone_L_Leg0
+    400028: Bone_L_Leg01
+    400030: Bone_L_Leg02
+    400032: Bone_L_Leg03
+    400034: Bone_L_Leg1
+    400036: Bone_L_Leg11
+    400038: Bone_L_Leg12
+    400040: Bone_L_Leg13
+    400042: Bone_L_Leg2
+    400044: Bone_L_Leg21
+    400046: Bone_L_Leg22
+    400048: Bone_L_Leg23
+    400050: Bone_L_Leg3
+    400052: Bone_L_Leg31
+    400054: Bone_L_Leg32
+    400056: Bone_L_Leg33
+    400058: Bone_R_Leg0
+    400060: Bone_R_Leg01
+    400062: Bone_R_Leg02
+    400064: Bone_R_Leg03
+    400066: Bone_R_Leg1
+    400068: Bone_R_Leg11
+    400070: Bone_R_Leg12
+    400072: Bone_R_Leg13
+    400074: Bone_R_Leg2
+    400076: Bone_R_Leg21
+    400078: Bone_R_Leg22
+    400080: Bone_R_Leg23
+    400082: Bone_R_Leg3
+    400084: Bone_R_Leg31
+    400086: Bone_R_Leg32
+    400088: Bone_R_Leg33
+    400090: Dummy L Leg0
+    400092: Dummy L Leg1
+    400094: Dummy L Leg2
+    400096: Dummy L Leg3
+    400098: Dummy R Leg0
+    400100: Dummy R Leg1
+    400102: Dummy R Leg2
+    400104: Dummy R Leg3
+    400106: IK Chain01
+    400108: IK Chain02
+    400110: IK Chain03
+    400112: IK Chain04
+    400114: IK Chain05
+    400116: IK Chain06
+    400118: IK Chain07
+    400120: IK Chain08
+    400122: IK Chain09
+    400124: IK Chain10
+    400126: IK Chain11
+    400128: IK Chain12
+    400130: IK Chain13
+    400132: IK Chain14
+    400134: IK Chain15
+    400136: IK Chain16
+    400138: monster_ys_byjxzhzhnw_a
+    400140: monster_ys_byjxzhzhnw_b
+    400142: //RootNode
+    4300000: monster_ys_byjxzhzhnw_a
+    4300002: monster_ys_byjxzhzhnw_b
+    7400000: run
+    9500000: //RootNode
+    13700000: monster_ys_byjxzhzhnw_a
+    13700002: monster_ys_byjxzhzhnw_b
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone03
+        weight: 1
+      - path: Bone03/Bone01
+        weight: 1
+      - path: Bone03/Bone01/Bone Connect Spine01
+        weight: 1
+      - path: Bone03/Bone01/Bone Connect Spine01/Bone Spine01
+        weight: 1
+      - path: Bone03/Bone01/Bone Connect Spine02
+        weight: 1
+      - path: Bone03/Bone01/Bone Connect Spine02/Bone Spine02
+        weight: 1
+      - path: Bone03/Bone01/Bone Connect Spine03
+        weight: 1
+      - path: Bone03/Bone01/Bone Connect Spine03/Bone Spine03
+        weight: 1
+      - path: Bone03/Bone01/Bone Head
+        weight: 1
+      - path: Bone03/Bone01/Bone Head/Bone L Head01
+        weight: 1
+      - path: Bone03/Bone01/Bone Head/Bone L Head01/Bone L Head02
+        weight: 1
+      - path: Bone03/Bone01/Bone Head/Bone R Head01
+        weight: 1
+      - path: Bone03/Bone01/Bone Head/Bone R Head01/Bone R Head02
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg0
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg0/Bone_L_Leg01
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg0/Bone_L_Leg01/Bone_L_Leg02
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg0/Bone_L_Leg01/Bone_L_Leg02/Bone_L_Leg03
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg1
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg1/Bone_L_Leg11
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg1/Bone_L_Leg11/Bone_L_Leg12
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg1/Bone_L_Leg11/Bone_L_Leg12/Bone_L_Leg13
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg2
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg2/Bone_L_Leg21
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg2/Bone_L_Leg21/Bone_L_Leg22
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg2/Bone_L_Leg21/Bone_L_Leg22/Bone_L_Leg23
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg3
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg3/Bone_L_Leg31
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg3/Bone_L_Leg31/Bone_L_Leg32
+        weight: 1
+      - path: Bone03/Bone01/Bone_L_Leg3/Bone_L_Leg31/Bone_L_Leg32/Bone_L_Leg33
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg0
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg0/Bone_R_Leg01
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg0/Bone_R_Leg01/Bone_R_Leg02
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg0/Bone_R_Leg01/Bone_R_Leg02/Bone_R_Leg03
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg1
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg1/Bone_R_Leg11
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg1/Bone_R_Leg11/Bone_R_Leg12
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg1/Bone_R_Leg11/Bone_R_Leg12/Bone_R_Leg13
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg2
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg2/Bone_R_Leg21
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg2/Bone_R_Leg21/Bone_R_Leg22
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg2/Bone_R_Leg21/Bone_R_Leg22/Bone_R_Leg23
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg3
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg3/Bone_R_Leg31
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg3/Bone_R_Leg31/Bone_R_Leg32
+        weight: 1
+      - path: Bone03/Bone01/Bone_R_Leg3/Bone_R_Leg31/Bone_R_Leg32/Bone_R_Leg33
+        weight: 1
+      - path: Bone03/Dummy L Leg0
+        weight: 1
+      - path: Bone03/Dummy L Leg0/IK Chain02
+        weight: 1
+      - path: Bone03/Dummy L Leg0/IK Chain02/IK Chain01
+        weight: 1
+      - path: Bone03/Dummy L Leg1
+        weight: 1
+      - path: Bone03/Dummy L Leg1/IK Chain04
+        weight: 1
+      - path: Bone03/Dummy L Leg1/IK Chain04/IK Chain03
+        weight: 1
+      - path: Bone03/Dummy L Leg2
+        weight: 1
+      - path: Bone03/Dummy L Leg2/IK Chain06
+        weight: 1
+      - path: Bone03/Dummy L Leg2/IK Chain06/IK Chain05
+        weight: 1
+      - path: Bone03/Dummy L Leg3
+        weight: 1
+      - path: Bone03/Dummy L Leg3/IK Chain08
+        weight: 1
+      - path: Bone03/Dummy L Leg3/IK Chain08/IK Chain07
+        weight: 1
+      - path: Bone03/Dummy R Leg0
+        weight: 1
+      - path: Bone03/Dummy R Leg0/IK Chain10
+        weight: 1
+      - path: Bone03/Dummy R Leg0/IK Chain10/IK Chain09
+        weight: 1
+      - path: Bone03/Dummy R Leg1
+        weight: 1
+      - path: Bone03/Dummy R Leg1/IK Chain12
+        weight: 1
+      - path: Bone03/Dummy R Leg1/IK Chain12/IK Chain11
+        weight: 1
+      - path: Bone03/Dummy R Leg2
+        weight: 1
+      - path: Bone03/Dummy R Leg2/IK Chain14
+        weight: 1
+      - path: Bone03/Dummy R Leg2/IK Chain14/IK Chain13
+        weight: 1
+      - path: Bone03/Dummy R Leg3
+        weight: 1
+      - path: Bone03/Dummy R Leg3/IK Chain16
+        weight: 1
+      - path: Bone03/Dummy R Leg3/IK Chain16/IK Chain15
+        weight: 1
+      - path: monster_ys_byjxzhzhnw_a
+        weight: 1
+      - path: monster_ys_byjxzhzhnw_b
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
